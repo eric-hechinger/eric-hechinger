@@ -14,4 +14,4 @@ Experienced in structuring, scaling, and aligning software organizations across 
 Basel area (CH) / France
 
 ## Contact
-- LinkedIn: [your link]
+- LinkedIn: [https://www.linkedin.com/in/eric-hechinger-19230792/]
