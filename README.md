@@ -1,16 +1,17 @@
-## Hi there 👋
+# Eric Hechinger
 
-<!--
-**eric-hechinger/eric-hechinger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering & Operations Leader – SaaS / Product Organizations
 
-Here are some ideas to get you started:
+Experienced in structuring, scaling, and aligning software organizations across product, engineering, and operations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus
+- Operating models & organizational design
+- Delivery governance & execution
+- Post-merger integration
+- International team leadership
+
+## Location
+Basel area (CH) / France
+
+## Contact
+- LinkedIn: [your link]
